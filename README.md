@@ -174,3 +174,7 @@ Para fechar com chave de ouro, que tal testar o quanto você aprendeu de Flask a
 - A função deve chamar a `read` para ter uma lista com todos os jobs.
 - A função deve chamar a `get_job`, declarada no arquivo `src/more_insights.py`, para selecionar um job específico pelo `index`.
 - A função deve renderizar o template `job.jinja2`, passando um parâmetro `job` contendo o job retornado pela `get_job`.
+
+
+# Autor
+ - Lucas Machado
