@@ -3,7 +3,7 @@
 O projeto teve como intuito o desenvolvimento de análises de um conjunto de dados sobre empregos. A partir dos arquivos
 `csv` que estão no diretório `tests/mocks` foram desenvolvidas as pesquisas nos arquivos. Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
-## Tecnologias Usadas
+## Tecnologia Usada
  - Python
 
 
