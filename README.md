@@ -52,8 +52,8 @@ python3 -m pytest -k nome_da_func_de_tests
 ```
 
 
-Além dos testes com o Pytest, você pode (e vai ser bem bacana) rodar a aplicação flask para visualizar no navegador o resultado do desenvolvimento das funções.
-Para isso, digite o comando `flask run`, e acesse o site gerado pelo Flask em `http://localhost:5000`. No começo do desenvolvimento, você verá que muitas coisas não funcionam, mas conforme você for implementando os requisitos, perceberá que a aplicação web começa a utilizar suas implementações e passa a ganhar vida.
+Além dos testes com o Pytest, você pode rodar a aplicação flask para visualizar no navegador o resultado do desenvolvimento das funções.
+Para isso, digite o comando `flask run`, e acesse o site gerado pelo Flask em `http://localhost:5000`. 
 
 ---
 
