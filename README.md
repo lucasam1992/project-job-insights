@@ -20,10 +20,6 @@ O projeto teve como intuito o desenvolvimento de análises de um conjunto de dad
 
 5° `flask run` - Rode a aplicação flask para visualizar o resultado do projeto
 
-
-Além dos testes com o Pytest, você pode rodar a aplicação flask para visualizar no navegador o resultado do desenvolvimento das funções.
-Para isso, digite o comando `flask run`, e acesse o site gerado pelo Flask em `http://localhost:5000`. 
-
 ** Após rodar o quinto passo, acesse `http://localhost:5000`. 
 
 ### Requisitos
