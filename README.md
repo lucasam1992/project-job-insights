@@ -8,9 +8,9 @@ O projeto teve como intuito o desenvolvimento de análises de um conjunto de dad
 
 ## Rodando o Projeto Localmente
 
-1° `git clone https://github.com/lucasam1992/project-recipes-app.git` - Clone o repositório para sua máquina
+1° `git clone https://github.com/lucasam1992/project-job-insights.git` - Clone o repositório para sua máquina
 
-2° `cd sd-010-a-project-job-insights` - Entre na pasta do repositório clonado
+2° `cd project-job-insights` - Entre na pasta do repositório clonado
 
 3° `python3 -m venv .venv && source .venv/bin/activate` - Crie e ative o ambiente virtual para o projeto
 
